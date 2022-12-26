@@ -1,0 +1,10 @@
+.place__image {
+  width: 460px;
+  grid-area: image;
+}
+
+@media screen and (max-width: 767px) {
+  .place__image {
+  width: 320px;
+  }
+}
