@@ -1,7 +1,8 @@
-/* Подключаем нормолайз */
+/* нормолайз */
 @import url(../vendor/normalize.css);
 
 @import url(../vendor/fonts.css);
+@import url(../blocks/hover/hover.css);
 /* page */
 @import url(../blocks/page/page.css);
 /* header */

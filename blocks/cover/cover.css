@@ -1,6 +1,9 @@
 .cover {
   background-image: linear-gradient(to right, rgba(0,0,0, 0.3) 0 100%), url(../../images/cover-trains.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
   min-height: 740px;
   margin: 92px 48px 0;
   display: flex;

@@ -1,0 +1,8 @@
+.hover {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+.hover:hover {
+  opacity: 0.8;
+}
