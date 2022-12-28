@@ -35,4 +35,9 @@
     row-gap: 32px;
     margin-bottom: 18px;
   }
+
+  .place:last-child {
+    margin-bottom: 0;
+  }
+
 }
